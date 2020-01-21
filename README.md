@@ -1,2 +1,1 @@
-Line10
-Line11
+Only one line
